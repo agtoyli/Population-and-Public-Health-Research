@@ -1,2 +1,3 @@
-# Population and Public HealthResearch
-## Research project on machine learning to monitor and combat emerging infectious diseases
+# Population and Public Health Research
+In this project, I worked with partner 
+
