@@ -3,6 +3,11 @@
 ## Project Overview
 In this project, I worked with collaborator [Daniel Middleton](https://github.com/damiddle) to perform a comprehensive literature review of the integration of machine learning and AI to predict, monitor, and respond to emerging infectious diseases (EID). As EIDs continue to pose severe threats to global health, this research examines how public health officials can utilize machine learning to identify outbreaks early and implement effective containment measures.
 
+## Methodology
+Studies for this review were obtained through various sources. The preliminary search was performed through Google. Developing research methods were with the query "'emerging infectious disease' AND ('machine learning' OR 'artificial intelligence')" in the Michigan Technological University Library database.
+
+We developed a slideshow presentation to relate the findings from our literature review to our classmates in the graduate-level course *SAT5424: Population Health Informatics*. Personally, I focused on information about current challenges and developing research surrounding machine learning and EID.
+
 ## Key Research Areas
 ### 1. Population and Public Health Impact
 We identified several critical domains in which machine learning can improve public health outcomes:
