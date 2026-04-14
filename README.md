@@ -5,3 +5,5 @@ In this project, I worked with collaborator [Daniel Middleton](https://github.co
 
 ## Key Research Areas
 ### 1. Population and Public Health Impact
+We identified several critical domains in which machine learning can improve public health outcomes:
+- **Early Intervention:** Early identification and 
